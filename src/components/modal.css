@@ -1,0 +1,56 @@
+.modal-box.relative {
+  max-width: 1200px;
+  width: 90%;
+  min-height: 87%;
+}
+.modal-icon {
+  width: 15px;
+  height: 15px;
+  padding: 2px;
+  font-size: 21px;
+  margin: 0px 4px;
+  color: #fff;
+}
+.form-button {
+  border: 1px solid #ddd;
+  background-color: transparent;
+}
+.form-button:hover {
+  background-color: transparent;
+}
+.form-btn {
+  text-align: right;
+}
+.mehr-btn.btn.btn-sm.w-16.bg-transparent.color-black.ml-0 {
+  color: lightcoral;
+  border: 1px solid lightcoral;
+}
+
+.mehr-btn.btn.btn-sm.w-16.bg-transparent.color-black.ml-0:hover {
+  background: lightcoral;
+  color: #fff;
+}
+label.btn.btn-sm.btn-circle.absolute.right-2.top-2 {
+  background: transparent;
+  border: navajowhite;
+  color: #000;
+  font-size: 25px;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
